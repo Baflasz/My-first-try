@@ -1,0 +1,25 @@
+if (a < 10):
+    print("Ez nem nagyobb 5-nél!")
+else:
+    print(f"{a + 1}, én nyertem. :)")
+    a = int(input("Írj be egy számot 1 és 5 között! :"))
+    if a == 1:
+        print("megérett a meggy")
+    elif a == 2:
+        print("csipkebokor-vessző")
+    elif a == 3:
+        print("te leszel a párom")
+    elif a == 4:
+        print("Bíz' oda nem mégy!")
+    elif: a == 5:
+        print("Leszállott a köd")
+    elif: a == 6:
+        print("hasad a pad")
+    elif: a == 7
+        print("dörög az ég")
+    elif: a == 8
+        print("leszakadt a polc")
+    elif: a == 9
+        print("Kis Ferenc")
+    else a == 10
+        print("Tiszta a víz")
