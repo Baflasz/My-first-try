@@ -61,4 +61,5 @@ if (a < 10):
 else:
     print(f"{a + 1}, én nyertem. :)")
     a = int(input("Írj be egy számot 1 és 5 között! :"))
+    Bruh get real
     
